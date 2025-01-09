@@ -37,4 +37,4 @@
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 
 ![Miging's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miging&show_icons=true&theme=transparent&title_color=A28047&text_color=352E04&icon_color=89877F&bg_color=F1EFE2) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miging&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miging&layout=compact&theme=dracula&hide=jupiternotebook)
