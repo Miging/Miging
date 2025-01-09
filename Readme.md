@@ -7,7 +7,7 @@
   | ------------ | ------------- |
   | 2020.03 - | Computer Science & Engineering at Chung-ang University |
   | 2024.03 - 2023.09| PM in Cotato 9th; Web&App devloping union club |
-  | 2024.03 - | PM in Clug; Web&App devloping club of CAU |
+  | 2024.03 - | Developer in Clug; Web&App devloping club of CAU |
   | 2024.09 - | UMC 7th; Springboot study association of CAU |
 
   <br>
